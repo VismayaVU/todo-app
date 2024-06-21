@@ -1,2 +1,4 @@
-Master OOPSWash utensils
-clean the bedclean laptop
+Master OOPS
+Wash utensils
+clean the bed
+clean laptop
